@@ -42,4 +42,4 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 [Lorem Ipsum](https://es.lipsum.com/ "Lorem Ipsum")
 
 **Como poner una imagen**
-![Imagen de venom](C:\Github\ASIX1-ApredizajeMarkdown\venom.jpg "Venom")
+![Imagen de venom](https://github.com/ivdemo/ASIX1-ApredizajeMarkdown/blob/main/venom.jpg "Venom")
