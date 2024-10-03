@@ -39,7 +39,9 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 ```
 
 **Como poner un link**
+
 [Lorem Ipsum](https://es.lipsum.com/ "Lorem Ipsum")
 
 **Como poner una imagen**
+
 ![Imagen de venom](https://github.com/ivdemo/ASIX1-ApredizajeMarkdown/blob/main/venom.jpg "Venom")
