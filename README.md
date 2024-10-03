@@ -45,3 +45,10 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 **Como poner una imagen**
 
 ![Imagen de venom](https://github.com/ivdemo/ASIX1-ApredizajeMarkdown/blob/main/venom.jpg "Venom")
+
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|----------|:---------------:|-----:|
+|SMX2 |Curso 2324 |25 |
+|ASIX1 |Curso 2425 |33 |
+|DAW2 |Curso 2425 |32 |
+
